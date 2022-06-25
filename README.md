@@ -1,2 +1,2 @@
 # Classification-Comparison
-This is a classification analysis on a dataset of features of breast mass FNA. 
+Classification analysis on a dataset with pathology features of breast mass obtained by FNA
